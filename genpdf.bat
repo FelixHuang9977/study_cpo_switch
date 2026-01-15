@@ -1,0 +1,1 @@
+npx -y -p @mermaid-js/mermaid-cli mmdc -i
